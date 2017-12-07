@@ -1,0 +1,9 @@
+name: Apache Kafka
+description: |
+  Kafka集群
+version: 1.0.0-rancher1
+category: Clustering
+maintainer: "openthings <openthings@163.com>"
+minimum_rancher_version: v0.59.0
+license: 
+projectURL: https://github.com/openthings/rancher-catalog
